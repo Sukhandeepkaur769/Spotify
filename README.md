@@ -1,2 +1,2 @@
 # Spotify
-This is frontend froject. 
+This is frontend project. 
